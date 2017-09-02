@@ -1,0 +1,17 @@
+﻿Exercício: 
+
+Análise de um esforço para colaborar em uma issue (pendência) de um projeto de software livre.
+
+Contextualização:
+
+Todo projeto de software livre maduro possui uma lista de pendências resolvidas e para resolver. Para efetivamente colaborar no projeto, o voluntário  deve compreender a issue capaz de propor uma solução. 
+
+Tarefas: 
+
+Fornecer um relatório de análise de duas pendência de um projeto de seu interesse sendo uma resolvida e  outra a resolver. Na análise, forneça as seguintes informações: 
+
+- indentificação da issue (URL,título,projeto,etc).
+- conhecimento necessário par resolver (linguagem,técnica,etc).
+- analisar a solução:
+	- Pendência resolvida: reproduzir o problema / descrever a solução
+	- Pendência a resolver: reproduz o problema / descrever potencial solução
